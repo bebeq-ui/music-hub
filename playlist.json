@@ -1,0 +1,39 @@
+{
+  "playlists": [
+    {
+      "id": "banwoldang",
+      "title": "반월당",
+      "emoji": "🏮",
+      "color": "#c9a96e",
+      "tracks": [
+        {
+          "title": "단명",
+          "src": "https://res.cloudinary.com/dlorej4sr/video/upload/v1773803579/1.%EB%8B%A8%EB%AA%85_%EB%B0%98%EC%9B%94%EB%8B%B9%EC%9D%98_%EA%B8%B0%EB%AC%98%ED%95%9C_%EC%9D%B4%EC%95%BC%EA%B8%B0_vef6gu.mp3"
+        },
+        {
+          "title": "상사화",
+          "src": "https://res.cloudinary.com/dlorej4sr/video/upload/v1773803579/2.%EC%83%81%EC%82%AC%ED%99%94-%EB%B0%98%EC%9B%94%EB%8B%B9%EC%9D%98_%EA%B8%B0%EB%AC%98%ED%95%9C_%EC%9D%B4%EC%95%BC%EA%B8%B0_bdjh1c.mp3"
+        },
+        {
+          "title": "풍령가"
+          "src": "https://res.cloudinary.com/dlorej4sr/video/upload/v1773803582/3.%ED%92%8D%EB%A0%B9%EA%B0%80-%EB%B0%98%EC%9B%94%EB%8B%B9%EC%9D%98_%EA%B8%B0%EB%AC%98%ED%95%9C_%EC%9D%B4%EC%95%BC%EA%B8%B0.com_eiubqa.mp3"
+        },
+        {
+          "title": "미련한 고백연습"
+          "src": "https://res.cloudinary.com/dlorej4sr/video/upload/v1773803575/4.%E1%84%87%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%AF%E1%86%AF%E1%84%83%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%B4_%E1%84%80%E1%85%B5%E1%84%86%E1%85%AD%E1%84%92%E1%85%A1%E1%86%AB_%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%A3%E1%84%80%E1%85%B5_-_%E1%84%86%E1%85%B5%E1%84%85%E1%85%A7%E1%86%AB%E1%84%92%E1%85%A1%E1%86%AB_%E1%84%80%E1%85%A9%E1%84%87%E1%85%A2%E1%86%A8%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%B3%E1%86%B8_zeonqy.mp3"
+        },
+        {
+          "title": "네가 있어서 행복해"
+          "src": "https://res.cloudinary.com/dlorej4sr/video/upload/v1773803579/5.%EB%84%A4%EA%B0%80_%EC%9E%88%EC%96%B4%EC%84%9C_%ED%96%89%EB%B3%B5%ED%95%B4_Happy_to_Have_You_-_cv.%EA%B9%80%EB%AA%85%EC%A4%80_%EC%84%B1%EC%98%88%EC%9B%90_hxj62b.mp3"
+        },
+        {
+          "title": "가넷"
+          "src": "https://res.cloudinary.com/dlorej4sr/video/upload/v1773803582/6.%EC%84%A4%EB%A0%88%EC%9E%84_-_%EA%B0%80%EB%84%B7_-_%EC%B5%9C%EC%A2%85%EB%B9%88_q4flcb.mp3"
+        },
+        {
+          "title": "벚꽃의비",
+          "src": "https://res.cloudinary.com/dlorej4sr/video/upload/v1773803584/7.%EB%B2%9A%EA%BD%83%EC%9D%98%EB%B9%84_-_%EC%84%A4%EB%A0%88%EC%9E%84_%EC%9A%94%EC%9D%B4_%ED%83%80%EB%9D%BC%EB%A7%9B%EC%8A%A4_-_%EA%B9%80%EC%84%B8%EC%A7%84_cgk9z7.mp3"
+        }
+      ]
+    },
+}
